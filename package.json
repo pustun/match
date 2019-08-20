@@ -1,0 +1,20 @@
+{
+  "name": "match",
+  "version": "1.0.0",
+  "description": "Pattern match in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "pattern",
+    "match",
+    "typescript"
+  ],
+  "author": "Oleksandr Taran",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
+}
