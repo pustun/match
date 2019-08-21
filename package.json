@@ -1,5 +1,5 @@
 {
-  "name": "match",
+  "name": "alta-match",
   "version": "0.0.1",
   "description": "Pattern match in typescript",
   "main": "index.js",
